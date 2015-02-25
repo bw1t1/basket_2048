@@ -1,0 +1,9 @@
+Features to improve the game:
+
+Change the background to a cool One Piece scene
+
+Change the color scheme depending on the chosen background
+
+Add an epic looping OST
+
+Change the button color to match the Oro Jackson website theme
