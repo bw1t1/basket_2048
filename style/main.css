@@ -313,7 +313,7 @@ hr {
   float: left;
   border-radius: 15px;
   background: #2C394B;
-  box-shadow:0px 0px 5px 5px #082032 inset;
+  box-shadow:0px 0px 25px 1px #082032 inset;
   border-width: 1px;
   border-style:solid;
   border-color: #082032;}
@@ -404,11 +404,12 @@ hr {
   .tile .tile-inner {
     border-radius: 15px;
     background: #f5f5f5;
+    box-shadow: 0px 0px 5px 0px inset;
     text-align: center;
     font-weight: bold;
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
-    font-size: 16px; 
+    font-size: 16px;
     color: #354b59;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/basket/2.png');
