@@ -311,7 +311,8 @@ hr {
   float: left;
   border-radius: 15px;
   background: #2C394B;
-  border: 1px;
+  border-width: 1px;
+  border-style:solid;
   border-color: #FF4C29;}
   .grid-cell:last-child {
     margin-right: 0; }
