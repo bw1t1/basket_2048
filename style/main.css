@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #333333;
-  color: #354b59;
+  background: #082032;
+  color: #FFFFFF;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -97,7 +97,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #FF4C29;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -210,8 +210,8 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
-  border-radius: 6px;
+  background: #2C394B;
+  border-radius: 25px;
   width: 500px;
   height: 500px;
   -webkit-box-sizing: border-box;
@@ -309,8 +309,10 @@ hr {
   height: 106.25px;
   margin-right: 15px;
   float: left;
-  border-radius: 3px;
-  background: rgba(238, 228, 218, 0.35); }
+  border-radius: 15px;
+  background: #2C394B;
+  border: 1px;
+  border-color: #FF4C29;}
   .grid-cell:last-child {
     margin-right: 0; }
 
