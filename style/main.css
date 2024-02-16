@@ -313,9 +313,10 @@ hr {
   float: left;
   border-radius: 15px;
   background: #2C394B;
+  box-shadow:0px 0px 5px 5px #082032 inset;
   border-width: 1px;
   border-style:solid;
-  border-color: #FF4C29;}
+  border-color: #082032;}
   .grid-cell:last-child {
     margin-right: 0; }
 
